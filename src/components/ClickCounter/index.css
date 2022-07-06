@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #2d3a35;
+}
+
+.spanElement {
+  color: #c20a72;
+}
+
+p {
+  color: #2d3a35;
+}
+
+.button {
+  background-color: #007bff;
+  border-radius: 5px;
+  border: 1px solid #007bff;
+  padding: 5px;
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
